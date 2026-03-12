@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/1주차/">
+    <Project Path="Practice_01.1/Practice_01.1.vcxproj" Id="6c210b50-d6d0-4cc2-8380-039c197b0622" />
+    <Project Path="Practice_01.2/Practice_01.2.vcxproj" Id="da133479-c4c3-483e-bc08-90015a1cdc79" />
+  </Folder>
+  <Folder Name="/2주차/">
+    <Project Path="Practice_02.1/Practice_02.1.vcxproj" Id="3d0a4e8f-3fff-40ae-b14b-63abc2ae805d" />
+    <Project Path="Practice_02.2/Practice_02.2.vcxproj" Id="d87e88d1-4bb2-4be4-a428-b9fc8f07fd2d" />
+  </Folder>
+</Solution>
