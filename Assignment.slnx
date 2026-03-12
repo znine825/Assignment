@@ -11,4 +11,8 @@
     <Project Path="Practice_02.1/Practice_02.1.vcxproj" Id="7d5e65b6-8bc1-4f76-8a95-00fca6bb79a3" />
     <Project Path="Practice_02.2/Practice_02.2.vcxproj" Id="b3bc4a85-18b8-487d-af85-6f1fe2e8c12e" />
   </Folder>
+  <Folder Name="/3주차/">
+    <Project Path="Practice_03.1/Practice_03.1.vcxproj" Id="7c9ab896-ce00-42f4-9625-e4b6816b7cd5" />
+    <Project Path="Practice_03.2/Practice_03.2.vcxproj" Id="4a999efc-3eab-41e5-8471-f31a2f76fd54" />
+  </Folder>
 </Solution>
