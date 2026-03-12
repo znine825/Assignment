@@ -50,7 +50,7 @@ int main(void) {
 			break;
 		}
 		printData(year, month, day);
-		
+
 	}
 	return 0;
 }

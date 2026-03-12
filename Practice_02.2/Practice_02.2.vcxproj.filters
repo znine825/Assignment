@@ -15,11 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <ClCompile Include="Practice_02.2.cpp">
-=======
-    <ClCompile Include="Practice_02.1.cpp">
->>>>>>> 44be8feddd3b07d114bcb0a7521bd3f5eff91da3
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

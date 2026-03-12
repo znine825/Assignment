@@ -8,7 +8,7 @@
     <Project Path="Practice_01.2/Practice_01.2.vcxproj" Id="da133479-c4c3-483e-bc08-90015a1cdc79" />
   </Folder>
   <Folder Name="/2주차/">
-    <Project Path="Practice_02.1/Practice_02.1.vcxproj" Id="3d0a4e8f-3fff-40ae-b14b-63abc2ae805d" />
-    <Project Path="Practice_02.2/Practice_02.2.vcxproj" Id="d87e88d1-4bb2-4be4-a428-b9fc8f07fd2d" />
+    <Project Path="Practice_02.1/Practice_02.1.vcxproj" Id="7d5e65b6-8bc1-4f76-8a95-00fca6bb79a3" />
+    <Project Path="Practice_02.2/Practice_02.2.vcxproj" Id="b3bc4a85-18b8-487d-af85-6f1fe2e8c12e" />
   </Folder>
 </Solution>
