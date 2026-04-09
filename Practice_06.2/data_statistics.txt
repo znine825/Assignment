@@ -1,0 +1,5 @@
+input_data
+      2      4      6      8     10      1      3      5      7      9
+      6      8     10      1      3      5      7      9     11     13
+Statistics : 
+      num_element (20), min (1), max (20), avg (10.50), var (33.25), std (5.77)
