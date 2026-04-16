@@ -1,0 +1,53 @@
+File output from Result.txt . . . . 
+
+Initial state of StudentDB : 
+StudentDB (Student_records, num_students = 10)
+Student(    Ahn_SB,      Suwon,   100,   CivilEng,  4.43)
+Student(    Kim_GM,      Daegu,   111,    InfoEng,  3.57)
+Student(  Zhang_SM,      Seoul,   222,    MechEng,  4.37)
+Student(  Hwang_SS,     Daejon,   333,    ChemEng,  2.72)
+Student(    Lee_KM,      Daegu,   444,    ElecEng,  3.35)
+Student(   Hong_GM,      Busan,   555,      Music,  3.57)
+Student(   Jang_SM,       Jeju,   666,        Art,  4.45)
+Student(   Park_SS,    Gwangju,   777,     Mngmnt,  4.12)
+Student(   Choi_YH,     Pohang,   888,    Physics,  3.85)
+Student(   Shin_DJ,  Chuncheon,   999,    English,  3.21)
+
+Sorted StudentDB (keyAttr = NAME, sort_order = INCR) : 
+StudentDB (Student_records, num_students = 10)
+Student(    Ahn_SB,      Suwon,   100,   CivilEng,  4.43)
+Student(   Choi_YH,     Pohang,   888,    Physics,  3.85)
+Student(   Hong_GM,      Busan,   555,      Music,  3.57)
+Student(  Hwang_SS,     Daejon,   333,    ChemEng,  2.72)
+Student(   Jang_SM,       Jeju,   666,        Art,  4.45)
+Student(    Kim_GM,      Daegu,   111,    InfoEng,  3.57)
+Student(    Lee_KM,      Daegu,   444,    ElecEng,  3.35)
+Student(   Park_SS,    Gwangju,   777,     Mngmnt,  4.12)
+Student(   Shin_DJ,  Chuncheon,   999,    English,  3.21)
+Student(  Zhang_SM,      Seoul,   222,    MechEng,  4.37)
+
+Sorted StudentDB (keyAttr = GPA, sort_order = DECR) : 
+StudentDB (Student_records, num_students = 10)
+Student(   Jang_SM,       Jeju,   666,        Art,  4.45)
+Student(    Ahn_SB,      Suwon,   100,   CivilEng,  4.43)
+Student(  Zhang_SM,      Seoul,   222,    MechEng,  4.37)
+Student(   Park_SS,    Gwangju,   777,     Mngmnt,  4.12)
+Student(   Choi_YH,     Pohang,   888,    Physics,  3.85)
+Student(   Hong_GM,      Busan,   555,      Music,  3.57)
+Student(    Kim_GM,      Daegu,   111,    InfoEng,  3.57)
+Student(    Lee_KM,      Daegu,   444,    ElecEng,  3.35)
+Student(   Shin_DJ,  Chuncheon,   999,    English,  3.21)
+Student(  Hwang_SS,     Daejon,   333,    ChemEng,  2.72)
+
+Sorted StudentDB (keyAttr = STID, sort_order = INCR) : 
+StudentDB (Student_records, num_students = 10)
+Student(    Ahn_SB,      Suwon,   100,   CivilEng,  4.43)
+Student(    Kim_GM,      Daegu,   111,    InfoEng,  3.57)
+Student(  Zhang_SM,      Seoul,   222,    MechEng,  4.37)
+Student(  Hwang_SS,     Daejon,   333,    ChemEng,  2.72)
+Student(    Lee_KM,      Daegu,   444,    ElecEng,  3.35)
+Student(   Hong_GM,      Busan,   555,      Music,  3.57)
+Student(   Jang_SM,       Jeju,   666,        Art,  4.45)
+Student(   Park_SS,    Gwangju,   777,     Mngmnt,  4.12)
+Student(   Choi_YH,     Pohang,   888,    Physics,  3.85)
+Student(   Shin_DJ,  Chuncheon,   999,    English,  3.21)

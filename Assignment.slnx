@@ -27,4 +27,8 @@
     <Project Path="Practice_06.1/Practice_06.1.vcxproj" Id="69d4c716-d4fc-41e8-82eb-74b37dc7081a" />
     <Project Path="Practice_06.2/Practice_06.2.vcxproj" Id="ef7ac160-d483-4f9c-8d0b-94ccccbddc08" />
   </Folder>
+  <Folder Name="/7주차/">
+    <Project Path="Practice_07.1/Practice_07.1.vcxproj" Id="f2d0ad00-d41e-4a57-bfd7-b4026ab67d44" />
+    <Project Path="Practice_07.2/Practice_07.2.vcxproj" Id="307522df-71a0-4838-8084-477717627d9d" />
+  </Folder>
 </Solution>
