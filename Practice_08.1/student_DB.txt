@@ -1,0 +1,11 @@
+Student_records 10
+Kim_GM Daegu 1111 InfoEng 3.57
+Zhang_SM Seoul 2222 MechEng 4.37
+Hwang_SS Daejon 3333 ChemEng 2.72
+Lee_KM Daegu 4444 ElecEng 3.35
+Hong_GM Busan 5555 Music 3.57
+Jang_SM Jeju 6666 Art 4.45
+Park_SS Gwangju 7777 Mngmnt 4.12
+Choi_YH Pohang 8888 Physics 3.85
+Shin_DJ Chuncheon 9999 English 3.21
+Ahn_SB Suwon 1234 CivilEng 4.43
