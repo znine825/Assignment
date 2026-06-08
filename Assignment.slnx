@@ -3,6 +3,22 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/10주차/">
+    <Project Path="Practice_10.1/Practice_10.1.vcxproj" Id="39dfe2a7-57b2-4eb3-b4ac-d8f162a252e8" />
+    <Project Path="Practice_10.2/Practice_10.2.vcxproj" Id="136ff9b1-4f6d-4474-8965-6cc25a5c84a6" />
+  </Folder>
+  <Folder Name="/11주차/">
+    <Project Path="Practice_11.1/Practice_11.1.vcxproj" Id="ad8bdd9b-b5ec-486e-95ab-ab9b65479f8b" />
+    <Project Path="Practice_11.2/Practice_11.2.vcxproj" Id="28473d57-eb26-4922-9282-ea544dc80df6" />
+  </Folder>
+  <Folder Name="/12주차/">
+    <Project Path="Practice_12.1/Practice_12.1.vcxproj" Id="e59754ac-1c60-4bcb-b93c-890861f89784" />
+    <Project Path="Practice_12.2/Practice_12.2.vcxproj" Id="283af50b-ca18-4e63-9cbf-324e70a5d8f5" />
+  </Folder>
+  <Folder Name="/13주차/">
+    <Project Path="Practice_13.1/Practice_13.1.vcxproj" Id="5940c5ae-97a4-48bd-bab5-c3637ab85356" />
+    <Project Path="Practice_13.2/Practice_13.2.vcxproj" Id="3a708bc5-fd30-44aa-bcf5-44fe4b60cc54" />
+  </Folder>
   <Folder Name="/1주차/">
     <Project Path="Practice_01.1/Practice_01.1.vcxproj" Id="6c210b50-d6d0-4cc2-8380-039c197b0622" />
     <Project Path="Practice_01.2/Practice_01.2.vcxproj" Id="da133479-c4c3-483e-bc08-90015a1cdc79" />
@@ -34,5 +50,9 @@
   <Folder Name="/8주차/">
     <Project Path="Practice_08.1/Practice_08.1.vcxproj" Id="80ffdfea-e47b-4953-a2e3-fc2cf8c1e3f2" />
     <Project Path="Practice_08.2/Practice_08.2.vcxproj" Id="84e1c6cb-2af7-4dd3-92a1-67ecda422593" />
+  </Folder>
+  <Folder Name="/9주차/">
+    <Project Path="Practice_09.1/Practice_09.1.vcxproj" Id="d20e4e6c-db7a-4f09-8e15-54ae9f1355b4" />
+    <Project Path="Practice_09.2/Practice_09.2.vcxproj" Id="99bd12ee-dee5-4ae2-b534-db36a6563f67" />
   </Folder>
 </Solution>

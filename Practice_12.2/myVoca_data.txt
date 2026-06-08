@@ -1,0 +1,162 @@
+Voca_DB
+mean, NOUN, { "average", "norm", "median", "middle", "midpoint", "(ant) extremity" }, {"the golden mean", "the arithmetical mean", "the geometric mean" };
+mean, ADJ, { "nasty", "poor", "middle", "miserly", "paltry" }, { "a man of mean intelligence", "a mean appearance" };
+mean, VERB, { "require", "denote", "intend" }, { "This symbol means danger.", "Higher costs mean low er profits." };
+
+offer, NOUN, { "proposal" }, { "He accepted out offer to w rite the business plan." };
+offer, VERB, { "to propose" }, { "The company offers a w ide range of services." };
+
+compromise, NOUN, { "give-and-take", "bargaining", "accommodation" }, { "The couple made a compromise and ordered food to take out." };
+compromise, VERB, { "settle", "conciliate", "find a middle ground" }, { "I compromised the drug by adding just a small amount of sugar." };
+
+delegate, NOUN, { "representative", "agent", "substitute" }, { "He is the delegate of his country (Korea)." };
+delegate, VERB, { "authorize", "appoint", "designate" }, { "He delegates his country (Korea)." };
+
+foster, VERB, { "nurture, "raise, "promote, "advance" }, { "The organization aims to foster innovation among young engineers." };
+foster, ADJ, { "substitute", "adoptive", "stand-in" }, { "She w as raised by foster parents." };
+
+imperative, ADJ, { "authoritative", "vital" }, { "Clear communication is imperative in emergency situations." };
+imperative, NOUN, { "necessity", "essential", "requirement" }, { "For engineers, ensuring system safety is a critical imperative." };
+
+abide, VERB, {"remain", "stay", " w ait", "dw ell", "aw ait", "stand one's ground against"}, {"A bide w ith us.", "I cannot abide dishonesty."};
+basis, NOUN, {"base", "foundation", "root", "source", "beginning", "footing"}, {"The manager didn't have any basis for firing the employee."};
+
+duplicate, VERB, {"to produce something equal", "to make identical"}, {"Duplicate the file and save it in another place."};
+duplicate, ADJ, {"double", "tw ofold", "identical", "tw in", "matching"}, {"If tw o objects are duplicate, they are exactly like or corresponding to each other"};
+duplicate, NOUN, {"copy", "replica", "clone"}, {"Duplicate means a copy exactly like the original."};
+
+resistor, NOUN, { "component, device, element" }, { "A resistor limits the current in an electrical circuit." };
+
+impedance, NOUN, { "resistance, opposition, reactance" }, { "Impedance determines how signals propagate through a system." };
+
+dielectric, NOUN, { "insulator, material, nonconductor" }, { "The dielectric prevents electrical conduction betw een plates." };
+
+semiconductor, NOUN, { "material, chip, transistor" }, { "Silicon is the most w idely used semiconductor." };
+
+electromagnetic, ADJ, { "electric, magnetic, radiative" }, { "Electromagnetic w aves travel at the speed of light." };
+
+capacitance, NOUN, { "capacity, storage, charge" }, { "Capacitance defines how much charge a capacitor can hold." };
+
+insulation, NOUN, { "protection, isolation, covering" }, { "Insulation reduces energy loss in pow er systems." };
+
+neutral, ADJ, { "balanced, inactive, unbiased" }, { "The neutral w ire completes the electrical circuit." };
+
+analyze, VERB, { "examine", "inspect", "evaluate" }, { "Engineers analyze data before making decisions." };
+analyze, NOUN, { "analysis", "examination", "study" }, { "The analysis revealed several design flaws." };
+
+design, VERB, { "plan", "create", "develop" }, { "She designed a new communication system." };
+design, NOUN, { "plan", "blueprint", "layout" }, { "The design was approved by the manager." };
+
+develop, VERB, { "create", "improve", "advance" }, { "The company develops innovative software." };
+develop, NOUN, { "development", "growth", "progress" }, { "Product development requires teamwork." };
+
+construct, VERB, { "build", "assemble", "erect" }, { "Workers constructed a new bridge." };
+construct, NOUN, { "structure", "framework", "formation" }, { "The construct supports the entire system." };
+
+conduct, VERB, { "perform", "carry out", "execute" }, { "Researchers conducted several experiments." };
+conduct, NOUN, { "behavior", "management", "operation" }, { "Professional conduct is expected in the workplace." };
+
+measure, VERB, { "gauge", "evaluate", "assess" }, { "Technicians measure voltage accurately." };
+measure, NOUN, { "standard", "criterion", "gauge" }, { "Safety is an important measure of quality." };
+
+operate, VERB, { "run", "control", "manage" }, { "The machine operates continuously." };
+operation, NOUN, { "process", "function", "activity" }, { "The operation was completed successfully." };
+
+inspect, VERB, { "examine", "review", "check" }, { "The supervisor inspected the equipment." };
+inspection, NOUN, { "review", "examination", "audit" }, { "The inspection found no defects." };
+
+calculate, VERB, { "compute", "estimate", "determine" }, { "Students calculated the resistance value." };
+calculation, NOUN, { "computation", "estimate", "evaluation" }, { "The calculation took only a few seconds." };
+
+produce, VERB, { "create", "generate", "manufacture" }, { "Factories produce thousands of parts daily." };
+production, NOUN, { "manufacture", "creation", "output" }, { "Production increased this year." };
+
+connect, VERB, { "link", "join", "attach" }, { "Connect the resistor to the power source." };
+connection, NOUN, { "link", "junction", "association" }, { "The connection was unstable." };
+
+protect, VERB, { "defend", "guard", "shield" }, { "Insulation protects wires from damage." };
+protection, NOUN, { "defense", "security", "safeguard" }, { "The protection system worked properly." };
+
+maintain, VERB, { "preserve", "sustain", "support" }, { "Engineers maintain the equipment regularly." };
+maintenance, NOUN, { "upkeep", "service", "repair" }, { "Maintenance is scheduled every month." };
+
+improve, VERB, { "enhance", "advance", "upgrade" }, { "The update improved system performance." };
+improvement, NOUN, { "enhancement", "advance", "upgrade" }, { "Continuous improvement is essential." };
+
+communicate, VERB, { "convey", "inform", "transmit" }, { "Managers communicate goals clearly." };
+communication, NOUN, { "interaction", "exchange", "transmission" }, { "Communication is vital in projects." };
+
+innovate, VERB, { "invent", "create", "modernize" }, { "Successful companies innovate constantly." };
+innovation, NOUN, { "invention", "advancement", "improvement" }, { "Innovation drives economic growth." };
+
+educate, VERB, { "teach", "train", "instruct" }, { "Universities educate future engineers." };
+education, NOUN, { "learning", "training", "instruction" }, { "Education opens many opportunities." };
+
+motivate, VERB, { "encourage", "inspire", "stimulate" }, { "Leaders motivate their teams effectively." };
+motivation, NOUN, { "incentive", "drive", "encouragement" }, { "Motivation increases productivity." };
+
+organize, VERB, { "arrange", "coordinate", "manage" }, { "She organized the project files." };
+organization, NOUN, { "structure", "association", "system" }, { "The organization expanded rapidly." };
+
+investigate, VERB, { "examine", "explore", "research" }, { "Scientists investigate new materials." };
+investigation, NOUN, { "inquiry", "research", "study" }, { "The investigation lasted six months." };
+
+adapt, VERB, { "adjust", "modify", "accommodate" }, { "Animals adapt to changing environments." };
+adaptation, NOUN, { "adjustment", "modification", "conversion" }, { "Adaptation is necessary for survival." };
+
+collaborate, VERB, { "cooperate", "work together", "coordinate" }, { "Teams collaborate on large projects." };
+collaboration, NOUN, { "cooperation", "partnership", "alliance" }, { "The collaboration produced excellent results." };
+
+implement, VERB, { "apply", "execute", "enforce" }, { "The company implemented new policies." };
+implementation, NOUN, { "execution", "application", "deployment" }, { "Implementation required careful planning." };
+
+evaluate, VERB, { "assess", "judge", "appraise" }, { "Managers evaluate employee performance." };
+evaluation, NOUN, { "assessment", "appraisal", "review" }, { "The evaluation showed improvement." };
+
+regulate, VERB, { "control", "govern", "manage" }, { "The circuit regulates current flow." };
+regulation, NOUN, { "rule", "control", "management" }, { "Government regulations ensure safety." };
+
+integrate, VERB, { "combine", "merge", "unify" }, { "The software integrates multiple systems." };
+integration, NOUN, { "combination", "merger", "unification" }, { "System integration reduced costs." };
+
+generate, VERB, { "produce", "create", "yield" }, { "Solar panels generate electricity." };
+generation, NOUN, { "production", "creation", "output" }, { "Power generation increased significantly." };
+
+demonstrate, VERB, { "show", "prove", "illustrate" }, { "The experiment demonstrated the theory." };
+demonstration, NOUN, { "display", "proof", "presentation" }, { "The demonstration impressed the audience." };
+
+transmit, VERB, { "send", "transfer", "communicate" }, { "Antennas transmit radio signals." };
+transmission, NOUN, { "transfer", "communication", "delivery" }, { "Signal transmission was interrupted." };
+
+optimize, VERB, { "improve", "refine", "enhance" }, { "Engineers optimize system performance." };
+optimization, NOUN, { "improvement", "refinement", "enhancement" }, { "Optimization reduced energy consumption." };
+
+apply, VERB, { "use", "employ", "utilize" }, { "Engineers apply scientific principles to solve problems." };
+application, NOUN, { "use", "implementation", "employment" }, { "The application of AI is growing rapidly." };
+
+achieve, VERB, { "accomplish", "attain", "obtain" }, { "The team achieved its project goals." };
+achievement, NOUN, { "accomplishment", "success", "attainment" }, { "Winning the award was a major achievement." };
+
+expand, VERB, { "extend", "enlarge", "broaden" }, { "The company plans to expand its business overseas." };
+expansion, NOUN, { "growth", "extension", "increase" }, { "The expansion created new job opportunities." };
+
+perform, VERB, { "execute", "carry out", "conduct" }, { "The technician performed the test carefully." };
+performance, NOUN, { "execution", "achievement", "efficiency" }, { "System performance improved significantly." };
+
+secure, VERB, { "protect", "safeguard", "defend" }, { "The company secured customer information." };
+security, NOUN, { "protection", "safety", "defense" }, { "Network security is a top priority." };
+
+inform, VERB, { "notify", "tell", "advise" }, { "Please inform me of any schedule changes." };
+information, NOUN, { "data", "details", "knowledge" }, { "The report contains useful information." };
+
+select, VERB, { "choose", "pick", "determine" }, { "The manager selected the best candidate." };
+selection, NOUN, { "choice", "option", "pick" }, { "The final selection was announced today." };
+
+respond, VERB, { "reply", "answer", "react" }, { "The system responds to user commands instantly." };
+response, NOUN, { "reply", "reaction", "answer" }, { "The response time was less than a second." };
+
+store, VERB, { "save", "keep", "preserve" }, { "The database stores customer records." };
+storage, NOUN, { "repository", "keeping", "preservation" }, { "Cloud storage is widely used today." };
+
+verify, VERB, { "confirm", "validate", "check" }, { "Always verify the results before submission." };
+verification, NOUN, { "confirmation", "validation", "authentication" }, { "Verification is required for security purposes." };

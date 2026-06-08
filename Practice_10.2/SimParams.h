@@ -1,0 +1,18 @@
+/*
+Multi_thread.h
+Date : 2026-05-22
+Author : Lee Jong Kwang
+- 스레드 기본 정보 파일 
+*/
+
+#ifndef SIMULATION_PARAMETERS_H
+#define SIMULATION_PARAMETERS_H
+#define NUM_EVENT_GENERATORS 1
+#define NUM_EVENTS_PER_GEN 50
+#define NUM_EVENT_HANDLERS 1
+#define TOTAL_NUM_EVENTS (NUM_EVENTS_PER_GEN* NUM_EVENT_GENERATORS)
+#define CIRQ_CAPACITY 50
+#define PLUS_INF INT_MAX
+#define MAX_ROUND 50
+#define EVENTS_PER_LINE 10
+#endif 
